@@ -1,0 +1,34 @@
+
+.p-10{
+    padding: 10px;
+}
+.pt-0{
+    padding-top: 0px;
+}
+.pt-10{
+    padding-top: 10px;
+}
+.pt-15{
+    padding-top: 15px;
+}
+.pt-100{
+    padding-top: 100px;
+}
+.pl-0{
+    padding-left: 0px;
+}
+.mb-15{
+    margin-bottom: 15px;
+}
+a{
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+body{
+    background-color: #3598DC;
+}
+.jumbotron {
+   
+    background-color: #fff;
+}

@@ -1,0 +1,76 @@
+.pro-pic {
+
+    width: 25px;
+
+}
+.pt-60{
+    padding-top: 60px;
+}
+.pt-20{
+    padding-top: 20px;
+}
+.mb-30{
+    margin-bottom: 30px;
+}
+.p-10{
+    padding: 10px;
+}
+.pt-0{
+    padding-top: 0px;
+}
+.pt-10{
+    padding-top: 10px;
+}
+.pt-15{
+    padding-top: 15px;
+}
+.pt-100{
+    padding-top: 100px;
+}
+.pl-0{
+    padding-left: 0px;
+}
+.mb-15{
+    margin-bottom: 15px;
+}
+.bg-white{
+    background: #FFFFFF;
+}
+.username {
+    color: black!important;
+    font-size: 22px;
+    font-weight: bold!important;
+}
+.post span button {
+    padding: 0px;
+    border: 0px;
+    background: transparent;
+    color: #0000ffe0;
+}
+.react textarea{
+    border-radius: 10px;
+}
+.navbar-default {
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+    border: 0;
+    height: 60px;
+   
+}
+.navbar-brand {
+    display: block;
+    font-weight: bold;
+    color: #fff!important;
+     height: 60px;
+     text-align: center;
+     float: none;
+}
+.part1 {
+    background: #4d4d4ee0;
+    color: #fff;
+}
+.part1 ul a{
+    color:black;
+    font-weight: bold;
+    padding-left: 20px;
+}
